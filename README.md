@@ -3,39 +3,53 @@
 
 ##Level 1 - Sloth
 **Difficulty level:** Easy
+
 PC/Laptop + Plex + Chromecast
+
 **Who is this for:** Someone who doesn’t really want to geek out too much
 
 ##Level 2 - Gluttony
 **DIfficulty Level:** Easy
+
 NAS+Gaming Console
+
 **Who is this for:** Someone who already owns a gaming console such as the Xbox or a playstation
 
 
 ##Level 3 - Greed
 **Difficulty level:** Moderate-Easy
+
 HTPC + External HDD/NAS + Kodi + Chromecast
+
 **Who this is for:** Someone who already has  an old PC lying around and has an extensive collection of media on a hard disk
 
 
 ##Level 4 - Lust
 **Difficulty level:** Moderate
+
 HTPC + NAS + OpenElec + Plex
+
 **Who this is for:** Someone who is willing to go the extra mile for keeping media on a NAS or there are many users in a single house/room
 
 ##Level 5 - Wrath
 **Difficulty Level:** Moderate
+
 RP2 + Torrent client + NAS + Kodi + Yatze
+
 **Who this is for:** Someone who isn't too fussy about content, but still wants remote downloading and storage on the network
 
 ##Level 6 - Envy
 **Difficulty Level:** Hard
+
 RP2 + qt transmission + ExtHDD/NAS + filebot + OpenElec + Plex + Chromecast/Roku
+
 **Who this is for:** Someone who has a good internet plan and wants to remotely download stuff, and is very particular about interfaces and media organization
 
 ##Level 7 - Pride
 **Difficulty level:** Hard
+
 HTPC + RP2 + OpenELEC + Plex + torrent client + filebot + Couch potato + Sickrage
+
 **Who this is for:** Someone who writes a script for automating everything.
 
 
